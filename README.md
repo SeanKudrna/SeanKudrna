@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SeanKudrna
-- 👀 I’m interested in web developement and database systems
-- 🌱 I’m currently learning basics of big data mining and artificial intelligence
+- 👀 I’m interested in app developement, database systems.
+- 🌱 I’m working with mobile app development using React Native, as well as desktop app development with Electron.
 - 📫 How to reach me: via email at me@seankudrna.com
 
 <!---
