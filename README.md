@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SeanKudrna
-- 👀 I’m interested in app developement, database systems.
-- 🌱 I’m working with mobile app development using React Native, as well as desktop app development with Electron.
+- 👀 I’m interested in app developement, and database systems.
+- 🌱 I’m working with mobile app development using React Native, Ionic, and Cordova, as well as desktop app development with Electron.
 - 📫 How to reach me: via email at me@seankudrna.com
 
 <!---
